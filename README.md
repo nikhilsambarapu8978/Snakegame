@@ -27,3 +27,10 @@ This Snake Game is implemented using Python and the Pygame library. It replicate
 
 python main.py
 
+## Screenshots
+- **Playing game**:
+![1](https://github.com/user-attachments/assets/b7f6b8f8-8afd-4bb8-adba-aaf6d14f3c12)
+
+- **Game Over**:
+![2](https://github.com/user-attachments/assets/2eecfd2d-4327-4e5a-a496-00efd5ee266a)
+
